@@ -1,4 +1,4 @@
-# Single server infinite capacity Markov Model
+# Single server infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waitinging time of each material in the system (d) waitinging time of each material in the conveyor if arrival rate of material follows poisson process 4 per minuates and serivice rate of lathe machine follows exponential distribution with mean serice rate 5 per minutes.
 
